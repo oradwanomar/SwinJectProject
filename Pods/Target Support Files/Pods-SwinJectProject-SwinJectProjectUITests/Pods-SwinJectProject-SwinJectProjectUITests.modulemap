@@ -1,0 +1,6 @@
+framework module Pods_SwinJectProject_SwinJectProjectUITests {
+  umbrella header "Pods-SwinJectProject-SwinJectProjectUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
